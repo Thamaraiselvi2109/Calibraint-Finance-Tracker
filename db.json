@@ -1,0 +1,43 @@
+{
+    "users": [
+    {
+    "id": 1,
+    "email": "test@example.com",
+    "password": "password123",
+    "name": "Jane Doe",
+    "token": "mock-auth-token-123"
+    }
+    ],
+    "transactions": [
+        {
+            "id": 1,
+            "title": "Freelance Project",
+            "amount": 32300,
+            "type": "income",
+            "date": "2025-04-25",
+            "userId": 1
+          },
+          {
+            "id": 2,
+            "title": "Shopping",
+            "amount": 12400,
+            "type": "expense",
+            "date": "2025-01-02",
+            "userId": 1
+          },
+          {
+            "id": 3,
+            "title": "Wordpress Project",
+            "amount": 1400,
+            "type": "income",
+            "date": "2025-03-05",
+            "userId": 1
+          }
+    ]
+}    
+
+
+
+
+
+
