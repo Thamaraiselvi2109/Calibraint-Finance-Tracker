@@ -15,13 +15,13 @@ Key Features
 5. Logout: Clear authentication state and redirect users to the login screen.
 
 Tech Stack
-Frontend: React with TypeScript
-Routing: React Router v6+
-State Management: Redux Toolkit
-HTTP Requests: Axios
-Backend: JSON Server (http://localhost:3001)
-Styling: Tailwind CSS
-Auth Token: Mock token stored in Redux + localStorage
+1. Frontend: React with TypeScript
+2. Routing: React Router v6+
+3.  Management: Redux Toolkit
+4. HTTP Requests: Axios
+5. Backend: JSON Server (http://localhost:3001)
+6. Styling: Tailwind CSS
+7. Auth Token: Mock token stored in Redux + localStorage
 
 Design Pattern
 Feature-Based Folder Structure: Code is organized by features (e.g., auth/, dashboard/, transactions/) for better scalability and maintainability.
